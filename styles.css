@@ -3,4 +3,20 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  background-position: center;
+}
+
+.custom-container {
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+.tile-container-downloads {
+  border: 2px solid #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.tile-image-downloads {
+  border: 2px solid #fff;
+  max-width: 250px
 }
