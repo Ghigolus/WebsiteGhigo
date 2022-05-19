@@ -20,3 +20,13 @@ body {
   border: 2px solid #fff;
   max-width: 256px
 }
+
+.vh{
+  height: 80vh;
+}
+
+@media only screen and (max-width: 1399px){
+	.vh{
+    height: 100%;
+  }
+}
