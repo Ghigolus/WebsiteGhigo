@@ -25,6 +25,10 @@ body {
   height: 95vh;
 }
 
+.skill-image{
+  max-width: 128px
+}
+
 @media only screen and (max-width: 1399px){
 	.vh{
     height: 100%;
