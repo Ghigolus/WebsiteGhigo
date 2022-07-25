@@ -16,8 +16,8 @@ body {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
-.tile-image-downloads {
-  border: 2px solid #fff;
+.tile-image-skill {
+  padding: 10px;
   max-width: 256px
 }
 
@@ -29,9 +29,19 @@ body {
   max-width: 128px
 }
 
+.skill-icon{
+  max-width: 24px;
+  max-height: 24px
+}
+
 @media only screen and (max-width: 1399px){
 	.vh{
     height: 100%;
     margin-top: 20px;
   }
 }
+
+.skill-card-group{
+  margin-top: 80px;
+}
+
