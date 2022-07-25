@@ -1,5 +1,6 @@
 body {
-  background-image: url("Images/bgshadow.jpeg");
+  /*background-image: url("Images/bgshadow.jpeg");*/
+  background-color: black;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -8,7 +9,11 @@ body {
 
 .custom-container {
   /*height: 100vh;*/
-  background-color: rgba(44, 43, 43, 0.75);
+  background-color: rgba(255, 255, 255, 0.75);
+}
+
+.skill-tile-background {
+  background-color: rgba(255, 255, 255, 1);
 }
 
 .tile-container-downloads {
