@@ -23,7 +23,7 @@ body {
 
 .tile-image-skill {
   padding: 20px;
-  max-width: 256px
+  max-width: 256px;
 }
 
 .first-card-group{
@@ -56,6 +56,16 @@ body {
 
 .single-skill-tile{
   margin-top: 100px;
+}
+
+.tile-border{
+  border: 2px solid gray;
+  border-radius: 5px;
+  
+}
+
+.tile-background-color{
+  background-color: rgb(161, 232, 144);
 }
 
 
