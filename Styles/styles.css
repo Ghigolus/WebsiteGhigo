@@ -1,10 +1,16 @@
 body {
   /*background-image: url("Images/bgshadow.jpeg");*/
+  background-image: url("../Images/Misc/GroundTile.png");
+  background-repeat: repeat;
   background-color: rgb(0, 0, 0);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url("../Fonts/AmaticSC-Bold.ttf");
+}
+.brand-font{
+  font-family: myFirstFont, Times, serif;
 }
 
 .ghostygif{
