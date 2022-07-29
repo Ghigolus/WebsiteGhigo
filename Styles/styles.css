@@ -44,10 +44,6 @@ body {
   max-width: 256px;
 }
 
-.first-card-group{
-  margin-top: 105px;
-}
-
 .skill-card-group{
   margin-top: 10px;
  }
@@ -87,11 +83,14 @@ body {
 }
 
 .skill-image-details{
-  max-width: 100px;
+  max-width: 150px;
 }
 
 .certificate-image{
   max-width: 300px;
 }
 
+.first-card-group{
+  margin-top: 105px;
+}
 
