@@ -1,15 +1,27 @@
 body {
   /*background-image: url("Images/bgshadow.jpeg");*/
-  background-color: black;
+  background-color: rgb(0, 0, 0);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
 }
 
+.ghostygif{
+  max-width: 64px;
+}
+
+.navbar-custom{
+  height: 10vh;
+}
+
+.user-image{
+  max-width: 200px;
+}
+
 .custom-container {
-  /*height: 100vh;*/
-  background-color: rgba(255, 255, 255, 1);
+  height: 80vh;
+  margin-top: 100px;
 }
 
 .skill-tile-background {
@@ -27,7 +39,7 @@ body {
 }
 
 .first-card-group{
-  margin-top: 80px;
+  margin-top: 100px;
 }
 
 .skill-card-group{
