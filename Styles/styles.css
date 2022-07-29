@@ -86,4 +86,12 @@ body {
   background-color: rgb(182, 222, 173);
 }
 
+.skill-image-details{
+  max-width: 100px;
+}
+
+.certificate-image{
+  max-width: 300px;
+}
+
 
